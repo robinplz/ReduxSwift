@@ -8,9 +8,11 @@ ReduxSwift is a Redux-like library written in Swift.
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/robinplz/ReduxSwift.git", from: "1.0.0"),
+    .package(url: "https://github.com/robinplz/ReduxSwift.git", from: "1.1.0"),
 ]
 ```
+
+Make sure to use version from **1.1.0**.
 
 ## Usage
 
