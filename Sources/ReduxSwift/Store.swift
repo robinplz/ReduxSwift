@@ -15,7 +15,7 @@ public class Store<State> {
         return self._state
     }
     
-    init(state: State) {
+    public init(state: State) {
         self._state = state
     }
     
